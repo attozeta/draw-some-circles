@@ -20,8 +20,8 @@ FAQ
 ===
 
 * Q: Why?
-* A: To demonstrate the usage of `Leaflet <http://leafletjs.com/>` in connection
-  with `Flask <http://flask.pocoo.org/>`.
+* A: To demonstrate the usage of `Leaflet <http://leafletjs.com/>`_ in connection
+  with `Flask <http://flask.pocoo.org/>`_.
 
 License
 =======
